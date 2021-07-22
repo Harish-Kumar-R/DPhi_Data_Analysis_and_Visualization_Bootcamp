@@ -1,4 +1,4 @@
-# **Data Analysis and Visualization Bootcamp project:**
+# **Data Analysis and Visualization Bootcamp in DPhi Organization: Project**
 IT Salary Survey Report - Analyze the survey data and generate insightful visualizations using Plotly
 
 # Overview
